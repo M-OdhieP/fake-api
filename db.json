@@ -17,5 +17,5 @@
 {"id":17,"satker":"Polda Medan","kode":45,"npu":9275,"kelompok":"Simonis-Witting","lokasi":"12 Lotheville Parkway","luas":98,"sumber":29,"tahun":1986,"imb":"Multi-layered","pkp":"local area network"},
 {"id":18,"satker":"Polda Aceh","kode":82,"npu":6092,"kelompok":"Jast Group","lokasi":"11 Heffernan Hill","luas":43,"sumber":26,"tahun":1995,"imb":"Secured","pkp":"Profit-focused"},
 {"id":19,"satker":"Polda Aceh","kode":47,"npu":2237,"kelompok":"Connelly, Lueilwitz and Rath","lokasi":"8917 Quincy Parkway","luas":16,"sumber":47,"tahun":2011,"imb":"Vision-oriented","pkp":"Up-sized"},
-{"id":20,"satker":"Polda Medan","kode":70,"npu":7448,"kelompok":"Koch Group","lokasi":"15586 Fair Oaks Point","luas":57,"sumber":95,"tahun":2004,"imb":"User-centric","pkp":"user-facing"},
- ]}
+{"id":20,"satker":"Polda Medan","kode":70,"npu":7448,"kelompok":"Koch Group","lokasi":"15586 Fair Oaks Point","luas":57,"sumber":95,"tahun":2004,"imb":"User-centric","pkp":"user-facing"}
+ ] }
