@@ -1,4 +1,4 @@
-{ pendataanAset: [{"id":1,"satker":"Polda Bengkulu","kode":53,"npu":2386,"kelompok":"Hermiston, Shanahan and Homenick","lokasi":"66 Shelley Court","luas":62,"sumber":83,"tahun":2005,"imb":"Intuitive","pkp":"system engine"},
+{ "pendataanaset" : [{"id":1,"satker":"Polda Bengkulu","kode":53,"npu":2386,"kelompok":"Hermiston, Shanahan and Homenick","lokasi":"66 Shelley Court","luas":62,"sumber":83,"tahun":2005,"imb":"Intuitive","pkp":"system engine"},
 {"id":2,"satker":"Polda Bengkulu","kode":84,"npu":1045,"kelompok":"Stark and Sons","lokasi":"3 Summer Ridge Road","luas":32,"sumber":99,"tahun":2001,"imb":"coherent","pkp":"5th generation"},
 {"id":3,"satker":"Mabes Polda","kode":41,"npu":7998,"kelompok":"Feest, Luettgen and Treutel","lokasi":"677 Artisan Junction","luas":41,"sumber":92,"tahun":2001,"imb":"directional","pkp":"asynchronous"},
 {"id":4,"satker":"Mabes Polda","kode":9,"npu":7595,"kelompok":"Cremin-McGlynn","lokasi":"01 School Lane","luas":85,"sumber":14,"tahun":1993,"imb":"even-keeled","pkp":"executive"},
